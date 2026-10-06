@@ -29,29 +29,26 @@ The dataset contains **271,116 records and 15 columns**, where each row represen
 
 ---
 
-### Dataset Information
+## 📊 Dataset Information
 
-```text
- ---------------------------------------------
-| Column  | Description                       |
-|---      |---                                |
-| `ID`    | Unique athlete identifier         |
-| `Name`  | Athlete name                      |
-| `Sex`   | Athlete gender                    |
-| `Age`   | Athlete age                       |
-| `Height`| Height in centimeters             |
-| `Weight`| Weight in kilograms               |
-| `Team`  | Team name                         |
-| `NOC`   | National Olympic Committee code   |
-| `Games` | Olympic year and season           |
-| `Year`  | Olympic year                      |
-| `Season`| Summer or Winter                  |
-| `City`  | Host city                         |
-| `Sport` | Sport                             |
-| `Event` | Olympic event                     |
-| `Medal` | Gold, Silver, Bronze, or no medal |
- ---------------------------------------------
-```
+|**Column**| **Description**                   |
+|----------|-----------------------------------|
+| `ID`     | Unique athlete identifier         |
+| `Name`   | Athlete name                      |
+| `Sex`    | Athlete gender                    |
+| `Age`    | Athlete age                       |
+| `Height` | Height in centimeters             |
+| `Weight` | Weight in kilograms               |
+| `Team`   | Team name                         |
+| `NOC`    | National Olympic Committee code   |
+| `Games`  | Olympic year and season           |
+| `Year`   | Olympic year                      |
+| `Season` | Summer or Winter                  |
+| `City`   | Host city                         |
+| `Sport`  | Sport                             |
+| `Event`  | Olympic event                     |
+| `Medal`  | Gold, Silver, Bronze, or no medal |
+
 ---
 
 ## 📊 Source
